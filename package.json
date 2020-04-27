@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Jest tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaguiHW/jest-test.git"
+  },
+  "author": "Kalib Hackin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NaguiHW/jest-test/issues"
+  },
+  "homepage": "https://github.com/NaguiHW/jest-test#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
